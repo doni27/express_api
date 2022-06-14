@@ -22,7 +22,7 @@ migration db > npx sequelize db:migrate
 
 > DELETE localhost:3000/tasks/9
 
-> DELETE localhost:3000/taskslists
+> GET localhost:3000/taskslists
 
 # IMAGE documentation:
 
